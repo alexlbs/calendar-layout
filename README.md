@@ -1,3 +1,7 @@
+# Experiments with rectangle layout for calendar component.
+
+hosted [here](https://calendar-layout.uc.r.appspot.com/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
